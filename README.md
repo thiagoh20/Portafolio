@@ -7,7 +7,7 @@
 
 ---
 
-![portafolio-presentacion](assets\imaSa\portafolio2.png)
+![portafolio-presentacion](image.png)
 
 ---
 
